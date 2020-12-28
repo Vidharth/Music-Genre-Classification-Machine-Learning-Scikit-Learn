@@ -1,6 +1,8 @@
 ## Machine Learning Project -- Music Genre Recognition
 Group 12
 
+This project was done for the course Machine Learning in the University of Groningen
+
 # Authors:
 * Arjan Jawahier (s2762161)
 * Roeland Lindhout (s2954524)
