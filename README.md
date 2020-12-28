@@ -28,3 +28,5 @@ pip3 install sklearn
 # Usage
 Once all the dependencies have been installed, you can run the program by calling:
 ```python3 main.py```
+
+For the experiments conducted and results obtained please read the research paper included
